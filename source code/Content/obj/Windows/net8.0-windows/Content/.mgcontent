@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/32165/OneDrive/Рабочий стол/KEGLYA_AIMER/source code/Content/fonts/ARIAL.spritefont</File>
+    <File>C:/Users/32165/OneDrive/Рабочий стол/KEGLYA_AIMER/source code/Content/images/AK47.png</File>
+    <File>C:/Users/32165/OneDrive/Рабочий стол/KEGLYA_AIMER/source code/Content/images/All_Bullet_Pixel_16x16.png</File>
+    <File>C:/Users/32165/OneDrive/Рабочий стол/KEGLYA_AIMER/source code/Content/images/background.png</File>
+    <File>C:/Users/32165/OneDrive/Рабочий стол/KEGLYA_AIMER/source code/Content/images/background1.png</File>
+    <File>C:/Users/32165/OneDrive/Рабочий стол/KEGLYA_AIMER/source code/Content/images/keglya.png</File>
+    <File>C:/Users/32165/OneDrive/Рабочий стол/KEGLYA_AIMER/source code/Content/images/M92.png</File>
+    <File>C:/Users/32165/OneDrive/Рабочий стол/KEGLYA_AIMER/source code/Content/images/MP5.png</File>
+    <File>C:/Users/32165/OneDrive/Рабочий стол/KEGLYA_AIMER/source code/Content/images/SawedOffShotgun.png</File>
+    <File>C:/Users/32165/OneDrive/Рабочий стол/KEGLYA_AIMER/source code/Content/images/spheres.png</File>
+    <File>C:/Users/32165/OneDrive/Рабочий стол/KEGLYA_AIMER/source code/Content/images/target.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
