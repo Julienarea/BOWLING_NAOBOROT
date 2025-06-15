@@ -90,6 +90,15 @@ public class Game1 : Game
 
     public void EndGame()
     {
+        UpdateMaxValues();
         _gameState = GameState.Menu;
+    }
+
+    private void UpdateMaxValues()
+    {
+        if (_gameLogic.HitCount > _menuModel.MaxHits)
+            _menuModel.MaxHits = _gameLogic.HitCount;
+        if (_gameLogic.SurvivalTime > _menuModel.MaxLifetime)
+            _menuModel.MaxLifetime = _gameLogic.SurvivalTime;
     }
 }

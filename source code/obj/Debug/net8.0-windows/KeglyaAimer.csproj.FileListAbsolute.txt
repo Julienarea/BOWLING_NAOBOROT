@@ -35,3 +35,4 @@ C:\Users\32165\OneDrive\Рабочий стол\KEGLYA_AIMER\source code\obj\Deb
 C:\Users\32165\OneDrive\Рабочий стол\KEGLYA_AIMER\source code\obj\Debug\net8.0-windows\KeglyaAimer.pdb
 C:\Users\32165\OneDrive\Рабочий стол\KEGLYA_AIMER\source code\obj\Debug\net8.0-windows\KeglyaAimer.genruntimeconfig.cache
 C:\Users\32165\OneDrive\Рабочий стол\KEGLYA_AIMER\source code\obj\Debug\net8.0-windows\ref\KeglyaAimer.dll
+C:\Users\32165\OneDrive\Рабочий стол\KEGLYA_AIMER\source code\obj\Debug\net8.0-windows\KeglyaAimer.sourcelink.json

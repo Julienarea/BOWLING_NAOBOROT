@@ -28,6 +28,20 @@ public class MenuModel
     private int START_BUTTON_Y => _graphicsDevice.Viewport.Height / 2 - START_BUTTON_HEIGHT / 2;
     #endregion
 
+    // Добавьте эти поля и свойства:
+    private int _maxHits = 0;
+    private float _maxLifetime = 0f;
+    public int MaxHits
+    {
+        get => _maxHits;
+        set => _maxHits = value;
+    }
+    public float MaxLifetime
+    {
+        get => _maxLifetime;
+        set => _maxLifetime = value;
+    }
+
     public MenuModel(GraphicsDevice graphicsDevice)
     {
         _graphicsDevice = graphicsDevice;

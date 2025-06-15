@@ -1,0 +1,44 @@
+C:\Users\32165\OneDrive\Рабочий стол\build\Content\fonts\ARIAL.xnb
+C:\Users\32165\OneDrive\Рабочий стол\build\Content\images\AK47.xnb
+C:\Users\32165\OneDrive\Рабочий стол\build\Content\images\All_Bullet_Pixel_16x16.xnb
+C:\Users\32165\OneDrive\Рабочий стол\build\Content\images\background.xnb
+C:\Users\32165\OneDrive\Рабочий стол\build\Content\images\background1.xnb
+C:\Users\32165\OneDrive\Рабочий стол\build\Content\images\keglya.xnb
+C:\Users\32165\OneDrive\Рабочий стол\build\Content\images\M92.xnb
+C:\Users\32165\OneDrive\Рабочий стол\build\Content\images\MP5.xnb
+C:\Users\32165\OneDrive\Рабочий стол\build\Content\images\SawedOffShotgun.xnb
+C:\Users\32165\OneDrive\Рабочий стол\build\Content\images\spheres.xnb
+C:\Users\32165\OneDrive\Рабочий стол\build\Content\images\target.xnb
+C:\Users\32165\OneDrive\Рабочий стол\build\KeglyaAimer.exe
+C:\Users\32165\OneDrive\Рабочий стол\build\KeglyaAimer.deps.json
+C:\Users\32165\OneDrive\Рабочий стол\build\KeglyaAimer.runtimeconfig.json
+C:\Users\32165\OneDrive\Рабочий стол\build\KeglyaAimer.dll
+C:\Users\32165\OneDrive\Рабочий стол\build\KeglyaAimer.pdb
+C:\Users\32165\OneDrive\Рабочий стол\KEGLYA_AIMER\source code\obj\Release\net8.0-windows\KeglyaAimer.csproj.AssemblyReference.cache
+C:\Users\32165\OneDrive\Рабочий стол\KEGLYA_AIMER\source code\obj\Release\net8.0-windows\KeglyaAimer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\32165\OneDrive\Рабочий стол\KEGLYA_AIMER\source code\obj\Release\net8.0-windows\KeglyaAimer.AssemblyInfoInputs.cache
+C:\Users\32165\OneDrive\Рабочий стол\KEGLYA_AIMER\source code\obj\Release\net8.0-windows\KeglyaAimer.AssemblyInfo.cs
+C:\Users\32165\OneDrive\Рабочий стол\KEGLYA_AIMER\source code\obj\Release\net8.0-windows\KeglyaAimer.csproj.CoreCompileInputs.cache
+C:\Users\32165\OneDrive\Рабочий стол\KEGLYA_AIMER\source code\obj\Release\net8.0-windows\KeglyaAimer.sourcelink.json
+C:\Users\32165\OneDrive\Рабочий стол\KEGLYA_AIMER\source code\obj\Release\net8.0-windows\KeglyaAi.73FD42F1.Up2Date
+C:\Users\32165\OneDrive\Рабочий стол\KEGLYA_AIMER\source code\obj\Release\net8.0-windows\KeglyaAimer.dll
+C:\Users\32165\OneDrive\Рабочий стол\KEGLYA_AIMER\source code\obj\Release\net8.0-windows\refint\KeglyaAimer.dll
+C:\Users\32165\OneDrive\Рабочий стол\KEGLYA_AIMER\source code\obj\Release\net8.0-windows\KeglyaAimer.pdb
+C:\Users\32165\OneDrive\Рабочий стол\KEGLYA_AIMER\source code\obj\Release\net8.0-windows\KeglyaAimer.genruntimeconfig.cache
+C:\Users\32165\OneDrive\Рабочий стол\KEGLYA_AIMER\source code\obj\Release\net8.0-windows\ref\KeglyaAimer.dll
+C:\Users\32165\OneDrive\Рабочий стол\KEGLYA_AIMER\build\Content\fonts\ARIAL.xnb
+C:\Users\32165\OneDrive\Рабочий стол\KEGLYA_AIMER\build\Content\images\AK47.xnb
+C:\Users\32165\OneDrive\Рабочий стол\KEGLYA_AIMER\build\Content\images\All_Bullet_Pixel_16x16.xnb
+C:\Users\32165\OneDrive\Рабочий стол\KEGLYA_AIMER\build\Content\images\background.xnb
+C:\Users\32165\OneDrive\Рабочий стол\KEGLYA_AIMER\build\Content\images\background1.xnb
+C:\Users\32165\OneDrive\Рабочий стол\KEGLYA_AIMER\build\Content\images\keglya.xnb
+C:\Users\32165\OneDrive\Рабочий стол\KEGLYA_AIMER\build\Content\images\M92.xnb
+C:\Users\32165\OneDrive\Рабочий стол\KEGLYA_AIMER\build\Content\images\MP5.xnb
+C:\Users\32165\OneDrive\Рабочий стол\KEGLYA_AIMER\build\Content\images\SawedOffShotgun.xnb
+C:\Users\32165\OneDrive\Рабочий стол\KEGLYA_AIMER\build\Content\images\spheres.xnb
+C:\Users\32165\OneDrive\Рабочий стол\KEGLYA_AIMER\build\Content\images\target.xnb
+C:\Users\32165\OneDrive\Рабочий стол\KEGLYA_AIMER\build\KeglyaAimer.exe
+C:\Users\32165\OneDrive\Рабочий стол\KEGLYA_AIMER\build\KeglyaAimer.deps.json
+C:\Users\32165\OneDrive\Рабочий стол\KEGLYA_AIMER\build\KeglyaAimer.runtimeconfig.json
+C:\Users\32165\OneDrive\Рабочий стол\KEGLYA_AIMER\build\KeglyaAimer.dll
+C:\Users\32165\OneDrive\Рабочий стол\KEGLYA_AIMER\build\KeglyaAimer.pdb
